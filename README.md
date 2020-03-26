@@ -1,7 +1,5 @@
 # WenziKong
 将文字转换为点阵图，每个点以圆环动画形式表现。
-![](http://xiongzhoudadi.com/images/posts/excel_list/ExcelList.gif)
-
 ---
 layout: post  
 title: Android 文字点阵图的水波纹动画
